@@ -1,1 +1,1 @@
-# Portfolio
+A simple and responsive personal portfolio website developed using HTML5 and CSS3. It showcases my profile, educational qualifications, technical skills, projects and contact information. This project demonstrates my understanding of HTML structure, CSS styling, Flexbox and responsive web design.# Portfolio
